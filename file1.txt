@@ -1,1 +1,4 @@
 this is line 1 in main
+this is line 2 in main
+this is line 3 in main
+this is line 4 in main
